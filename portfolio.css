@@ -927,19 +927,19 @@ section .title::after{
 }
 
 .skills .skills-content .right .frontend::before{
-    width: 80%;
+    width: 90%;
 }
 
 .skills .skills-content .right .backend::before{
-    width: 70%;
+    width: 80%;
 }
 
 .skills .skills-content .right .fullstack::before{
-    width: 70%;
+    width: 80%;
 }
 
 .skills .skills-content .right .cpp::before{
-    width: 80%;
+    width: 70%;
 }
 
 .skills .skills-content .right .python::before{
@@ -947,7 +947,7 @@ section .title::after{
 }
 
 .skills .skills-content .right .java::before{
-    width: 60%;
+    width: 90%;
 }
 
 
